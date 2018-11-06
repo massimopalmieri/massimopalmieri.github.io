@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Massimo Palmieri - Front-end engineer',
   },
   plugins: [
     'gatsby-plugin-styled-components',

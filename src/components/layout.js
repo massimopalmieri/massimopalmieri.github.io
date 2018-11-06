@@ -28,9 +28,8 @@ const Layout = ({ children }) => (
           <html lang="en" />
           <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet" />
         </Helmet>
-        <div>
-          {children}
-        </div>
+
+        {children}
       </>
     )}
   />
